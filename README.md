@@ -66,3 +66,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+To run the project first run 'npm install'
+then `npm start`
+
+1.click any row of the table to see the user detail page. you can see url with user id.
+2. you can come back to table view page by clicking browser back button.
+3. click the sort icon to sort users.
+4. search users in search field.
+5. jump to another page by clicking page numbers at the bottom.
